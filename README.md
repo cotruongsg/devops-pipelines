@@ -1,0 +1,1 @@
+Setting the CICD pipeline
